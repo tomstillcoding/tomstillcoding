@@ -13,4 +13,4 @@
 
 ##  🧑🏻‍💻微信公众号
 
-![vx](https://github.com/tomstillcoding/tomstillcoding.github.io/blob/main/assets/image.png)
+![vx](https://github.com/tomstillcoding/tomstillcoding.github.io/blob/main/assets/image.png){:height="50%" width="50%"}
