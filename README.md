@@ -4,5 +4,4 @@
 - 💞️ 我想做十年视频，做十年直播，坚持十年，会发生什么呢？会拿到10万关注的小银牌吗？
 - 📫 联系方式：微信公众号【汤姆还在写代码】，直接私信留言问题～
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tomstillcoding-lab&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomstillcoding-lab&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomstillcoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
